@@ -1,3 +1,5 @@
+Git Branches: List, Create, Switch to, Merge, Push, & Delete
+
 See What Branch You're On
 Run this command:
    git status
