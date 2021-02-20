@@ -1,0 +1,13 @@
+Step 1: Make sure you have Git installed on you machine.
+If you are on a Mac, fire up the terminal and enter the following command:
+
+$ git --version
+This will prompt open an installer if you don’t already have git. So set it up using the installer. If you have git already, it’ll just show you which version of git you have installed.
+
+If you are running Linux(deb), enter the following in the terminal:
+
+$ sudo apt install git-all
+If you are on Windows:
+
+$ get a mac
+
