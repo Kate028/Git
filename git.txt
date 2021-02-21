@@ -1,141 +1,18 @@
 Step 1: Make sure you have Git installed on you machine.
-If you are on a Mac, fire up the terminal and enter the following command:
+If you are on a Mac, enter the following command:
 
 $ git --version
-This will prompt open an installer if you don’t already have git. So set it up using the installer. If you have git already, it’ll just show you which version of git you have installed.
+This will prompt open an installer if you don’t already have git. So set it up using the installer. 
+If you have git already, it’ll just show you which version of git you have installed.
 
 If you are running Linux(deb), enter the following in the terminal:
 
 $ sudo apt install git-all
-If you are on Windows:
-
-$ get a mac
-Just kidding… Relax… The amount of people I triggered… Phew…
-Go to this link or this link for more info on how to get it.
 
 Step 2: Tell Git who you are.
-Introduce yourself. Slide in. Seriously, mention your Git username and email address, since every Git commit will use this information to identify you as the author.
+Introduce yourself. Slide in. Seriously, mention your Git username and email address, since every Git
+commit will use this information to identify you as the author.
 
 $ git config --global user.name "YOUR_USERNAME" 
-
-D
-D
-D
-C
-C
-C
-C
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-A
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-A
-A
-A
-A
-A
-A
-B
-B
-B
-B
-B
-B
-B
-B
-
-C
-C
-D
-D
-D
-C
-C
-D
-
-$ git config --global user.email "im_satoshi@musk.com"
+$ git config --global user.email "kritikaranjan28@gmail.com"
 $ git config --global --list # To check the info you just provided
-
